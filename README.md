@@ -1,3 +1,6 @@
+This project was created using nextJs and Prismic.
+You can use this repo to create your own Blog with the steps given below
+
 ## Install the prismic-cli
 ```
 npm install -g prismic-cli
