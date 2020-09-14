@@ -17,7 +17,7 @@ export const globals = css.global`
   body {
     padding: 3rem 0 0 0;
     color: #353535;
-    background-color: #f5f5f5;
+    background-color: #ffeff9;
     line-height: 1.5;
     font-family: "PT Serif", serif;
     font-size: 20px;
