@@ -18,7 +18,7 @@ export const headerStyles = css.global`
 
   .blog-description {
     font-size: 18px;
-    color: #9a9a9a;
+    color: white;
     line-height: 30px;
     margin-bottom: 3rem;
     padding-bottom: 3rem;
@@ -40,14 +40,14 @@ export const headerStyles = css.global`
  */
   body {
     padding: 3rem 0 0 0;
-    color: #353535;
-    background-color: #ffeff9;
+    color: #f2f2f2;
+    background-color: black;
     line-height: 1.5;
     font-family: "PT Serif", serif;
     font-size: 20px;
   }
   a {
-    color: #353535;
+    color: white;
     text-decoration: none;
     background-repeat: repeat-x;
     background-size: 2px 2px;
@@ -65,7 +65,7 @@ export const headerStyles = css.global`
   .blog-main .h5,
   .blog-main h6,
   .blog-main .h6 {
-    color: #353535;
+    color: #cecece;
     text-align: left;
   }
   h1,

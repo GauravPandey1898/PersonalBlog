@@ -95,14 +95,14 @@ export const postStyles = css.global`
  */
   body {
     padding: 3rem 0 0 0;
-    color: #353535;
-    background-color: #ffeff9;
+    color: white;
+    background-color: black;
     line-height: 1.5;
     font-family: "PT Serif", serif;
     font-size: 20px;
   }
   a {
-    color: #353535;
+    color: white;
     text-decoration: none;
     background-repeat: repeat-x;
     background-size: 2px 2px;

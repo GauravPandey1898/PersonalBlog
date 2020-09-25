@@ -22,6 +22,7 @@ const Footer = () => (
           className="footer-logo"
           src="/images/github-logo.svg"
           alt="github logo"
+          style={{filter:"invert(100%)"}}
         />
 
       </a>
@@ -33,7 +34,10 @@ const Footer = () => (
           <img
             className="footer-logo" 
             src="/images/linkedin.svg" 
-            alt="linkedin logo"/>
+            alt="linkedin logo"
+            style={{filter:"invert(100%)"}}
+            />
+            
 
       </a>
       
